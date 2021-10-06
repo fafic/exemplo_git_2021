@@ -7,3 +7,7 @@ branch de luciano
 public void teste(){
 	println("Hello World!")
 }
+
+public boolean verdade(){
+	return true;
+}
